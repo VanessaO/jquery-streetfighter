@@ -10,6 +10,19 @@ body {
 	height: 500px;
 }
 
+.main p {
+	color: #000;
+	position: relative;
+	bottom: 30em;
+	left: 42em;
+	width: 10em;
+	font-size: 1em;
+	font-family: "Courier", serif;
+	margin: 1em;
+	display: inline-block;
+	vertical-align: top;
+}
+
 .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
 	width: 659px;
 	height: 494px;
